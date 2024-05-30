@@ -9,4 +9,4 @@ Specific snapshot search in any resolution video via FALCONN Library
 ## 2. Runtime Spec
 - OS : MacOS (Recommend 'MacOS' & 'Linux', no 'Windows')
 - Python 3.10
-- [PyPI - FALCONN](https://pypi.org/project/FALCONN/) FALCONN FALCONN 1.3.1
+- [PyPI - FALCONN](https://pypi.org/project/FALCONN/) : FALCONN 1.3.1
